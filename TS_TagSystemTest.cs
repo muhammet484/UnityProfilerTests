@@ -5,14 +5,6 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-/*
- * Getcomponent+
- * tryGetComponent+
- * hashset contains
- * tag+
- * comparetag+
- * layer+
- */
 namespace TestClasses
 {
     public class TS_TagSystemTest : MonoBehaviour
